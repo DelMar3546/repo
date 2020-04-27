@@ -1,8 +1,8 @@
-Origin: Justin Repo
-Label: Justin Repo
+Origin: DelMar Repo
+Label: DelMar Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Justin Repo Description 
+Description: DelMar Repo Description 
